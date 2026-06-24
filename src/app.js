@@ -11,7 +11,7 @@ app.disable("x-powered-by");
 app.use(
   cors({
     
-    origin: [process.env.CLIENT_URL || "https://codevector-frontend-zeta.vercel.app/"],
+    origin: [process.env.CLIENT_URL || "https://codevector-frontend-zeta.vercel.app"],
     methods: ["GET", "POST", "PUT", "PATCH", "DELETE", "OPTIONS"],
     allowedHeaders: ["Content-Type", "Authorization"],
   })

@@ -355,6 +355,6 @@ This implementation focuses on:
 
 **GitHub:** https://github.com/DevPatel1479
 
-**Live Backend:** Render Backend URL
+**Live Backend:** https://codevector-backend-3aun.onrender.com
 
-**Live Frontend (Bonus):** Render Frontend URL
+**Live Frontend (Bonus):** https://codevector-frontend-zeta.vercel.app
