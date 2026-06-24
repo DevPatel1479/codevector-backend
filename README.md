@@ -6,6 +6,18 @@ This project provides a REST API to browse approximately **200,000 products** us
 
 ---
 
+
+
+**GitHub:** https://github.com/DevPatel1479
+
+# Live URL
+
+**Live Backend:** https://codevector-backend-3aun.onrender.com/products
+
+**Live Frontend (Bonus):** https://codevector-frontend-zeta.vercel.app
+
+
+
 ## 🚀 Features
 
 - Cursor-based pagination
@@ -353,8 +365,3 @@ This implementation focuses on:
 
 **Name:** Dev Patel
 
-**GitHub:** https://github.com/DevPatel1479
-
-**Live Backend:** https://codevector-backend-3aun.onrender.com
-
-**Live Frontend (Bonus):** https://codevector-frontend-zeta.vercel.app
