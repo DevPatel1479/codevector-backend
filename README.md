@@ -351,9 +351,9 @@ This implementation focuses on:
 
 # 👨‍💻 Author
 
-**Name:** Your Name
+**Name:** Dev Patel
 
-**GitHub:** Your GitHub Repository
+**GitHub:** https://github.com/DevPatel1479
 
 **Live Backend:** Render Backend URL
 
