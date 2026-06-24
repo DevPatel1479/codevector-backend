@@ -16,7 +16,7 @@ This project provides a REST API to browse approximately **200,000 products** us
 
 **Live Backend Products URL:** https://codevector-backend-3aun.onrender.com/products
 
-**Live Frontend (Bonus):** https://codevector-frontend-zeta.vercel.app
+**Live Frontend:** https://codevector-frontend-zeta.vercel.app
 
 
 
